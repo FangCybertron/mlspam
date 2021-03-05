@@ -1,6 +1,9 @@
 const fetch = require('node-fetch');
 const readlineSync = require('readline-sync');
 
+// Created By Andhika D. Maulana
+// Friday , 5 March 2021
+
 console.log(`
 ███████╗██████╗  █████╗ ███╗   ███╗    ███╗   ███╗ █████╗ ██╗██╗         ███╗   ███╗██╗     
 ██╔════╝██╔══██╗██╔══██╗████╗ ████║    ████╗ ████║██╔══██╗██║██║         ████╗ ████║██║     
