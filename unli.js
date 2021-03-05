@@ -12,7 +12,7 @@ console.log(`
 `);
 
 var idml = readlineSync.question('Game ID ? ');
-console.log('');
+console.log(' ');
 
 const spam = () => new Promise((resolve, reject) => {
     fetch(`https://api.mobilelegends.com/mlweb/sendMail?roleId=${idml}&language=en`, {
